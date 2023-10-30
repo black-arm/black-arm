@@ -18,6 +18,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
  </p>
+ 
+![Black-arm's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-arm&show_icons=true&theme=trasparent&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-arm&layout=donut&theme=highcontrast)
-![Black-arm's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-arm&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=black-arm&layout=donut&theme=trasparent)
+
+
+

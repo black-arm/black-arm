@@ -24,5 +24,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=black-arm&layout=donut&theme=trasparent)
 
-
+<a href="https://app.daily.dev/bl4ck4rm"><img src="https://api.daily.dev/devcards/v2/7XImGk7Ts2EJRAENQDI90.png?r=itm" width="356" alt="Antonio Basile's Dev Card"/></a>
 
